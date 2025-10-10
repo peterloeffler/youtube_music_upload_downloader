@@ -27,4 +27,5 @@ Then your simply run the python programm:
 ```
 python youtube_music_upload_downloader.py
 ```
-Files will be downloaded to the current folder under `Albums` and will be put into a separate subdirectory for every album.
+Files will be downloaded to the current folder under `Albums` and will be put into a separate subdirectory for every album.  
+!!! ATTENTION: If you uploaded a lot of music you could be rate limited when executing this script. I was blocked from listening to any music or watching any YouTube videos for ~2 days. And of course the music download of this script does not work anymore while you are blocked.
